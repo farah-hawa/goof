@@ -3,9 +3,6 @@
 
 A vulnerable Node.js demo application, based on the [Dreamers Lab tutorial](http://dreamerslab.com/blog/en/write-a-todo-list-with-express-and-mongodb/).
 
-AWS_ACCESS_KEY_ID=3be04c548b0e9ebf22ab8220b5643441
-AWS_SECRET_ACCESS_KEY=9621555aa618e89f0d5ba22bdf245438c7754d9e3773336c010d19a0d560c83d
-
 ## Features
 
 This vulnerable app includes the following capabilities to experiment with:
